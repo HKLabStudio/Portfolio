@@ -1,4 +1,4 @@
-﻿# HK Lab Studio â€” Software Portfolio
+# HK Lab Studio â€” Software Portfolio
 
 Developer / Publisher: HK Lab Studio  
 Website: https://hklabstudio.com
@@ -11,6 +11,7 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 
 ## Featured Projects
 
+- **Intelligence Studio v2.0.0** - A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
 - **Intelligence Studio v2.0.0** — A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
 
 - **Meteor Defense** â€” An endless browser arcade game in which players defend a city from incoming threats, avoid friendly craft, collect power-ups, and pursue high scores. Built with Godot 4.7.2. Version 1.0.0.
@@ -40,6 +41,11 @@ Commercial source repository maintained privately.
 
 ## Developer Tools
 
+### Intelligence Studio v2.0.0
+
+A browser-based Custom GPT project builder for organizing instructions, knowledge and configuration requirements, preparing compliance-oriented project material, and exporting structured deliverables including Project JSON, Compliance CSV, and Proposal Markdown.
+
+Commercial source repository maintained privately.
 ### Intelligence Studio v2.0.0
 
 A browser-based Custom GPT project builder for organizing instructions, knowledge and configuration requirements, preparing compliance-oriented project material, and exporting structured deliverables including Project JSON, Compliance CSV, and Proposal Markdown.
