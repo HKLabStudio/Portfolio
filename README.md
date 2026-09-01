@@ -1,4 +1,4 @@
-# HK Lab Studio â€” Software Portfolio
+# HK Lab Studio — Software Portfolio
 
 Developer / Publisher: HK Lab Studio  
 Website: https://hklabstudio.com
@@ -12,12 +12,11 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 ## Featured Projects
 
 - **Intelligence Studio v2.0.0** - A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
-- **Intelligence Studio v2.0.0** — A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
 
-- **Meteor Defense** â€” An endless browser arcade game in which players defend a city from incoming threats, avoid friendly craft, collect power-ups, and pursue high scores. Built with Godot 4.7.2. Version 1.0.0.
-- **HK ReleaseVerity** â€” A local-first release-quality tool that consolidates automated release evidence into repeatable quality-gate decisions. Version 1.8.0.
-- **HK Web Release Regression Studio** â€” A local-first workspace for comparing baseline and candidate web releases across desktop, tablet, and phone viewports.
-- **HK CSV & Excel Import Wizard** â€” A browser-based workflow for CSV/XLSX mapping, row validation, transforms, duplicate detection, review, and export. Version 1.0.0.
+- **Meteor Defense** — An endless browser arcade game in which players defend a city from incoming threats, avoid friendly craft, collect power-ups, and pursue high scores. Built with Godot 4.7.2. Version 1.0.0.
+- **HK ReleaseVerity** — A local-first release-quality tool that consolidates automated release evidence into repeatable quality-gate decisions. Version 1.8.0.
+- **HK Web Release Regression Studio** — A local-first workspace for comparing baseline and candidate web releases across desktop, tablet, and phone viewports.
+- **HK CSV & Excel Import Wizard** — A browser-based workflow for CSV/XLSX mapping, row validation, transforms, duplicate detection, review, and export. Version 1.0.0.
 
 ## Games
 
@@ -46,11 +45,7 @@ Commercial source repository maintained privately.
 A browser-based Custom GPT project builder for organizing instructions, knowledge and configuration requirements, preparing compliance-oriented project material, and exporting structured deliverables including Project JSON, Compliance CSV, and Proposal Markdown.
 
 Commercial source repository maintained privately.
-### Intelligence Studio v2.0.0
 
-A browser-based Custom GPT project builder for organizing instructions, knowledge and configuration requirements, preparing compliance-oriented project material, and exporting structured deliverables including Project JSON, Compliance CSV, and Proposal Markdown.
-
-Commercial source repository maintained privately.
 ### HK ReleaseVerity
 
 A local-first developer tool that consolidates JUnit, Playwright, Jest, Vitest, LCOV, Cobertura, and SARIF evidence into release-gate decisions and exportable evidence packs. Version 1.8.0.
@@ -89,7 +84,7 @@ Commercial source repository maintained privately.
 
 ## UI & Component Systems
 
-### HK Agent UI Vol. 1 â€” React Edition
+### HK Agent UI Vol. 1 — React Edition
 
 A collection of 25 configurable React UI components for tool execution, connection states, approvals, usage, citations, permissions, workflows, and operational feedback. Built with React, TypeScript, Tailwind CSS, and Vite. Version 1.0.0.
 
@@ -101,7 +96,7 @@ A standalone React frontend component kit for chat, tool-calling interfaces, sou
 
 Commercial source repository maintained privately.
 
-### HK Agent UI Vol. 2 â€” Developer States Edition
+### HK Agent UI Vol. 2 — Developer States Edition
 
 A React component pack for common application and developer states, including loading, errors, permissions, progress, deployment, and system health. Built with React, TypeScript, Tailwind CSS, and Vite.
 
@@ -158,4 +153,3 @@ Developer / Publisher: HK Lab Studio
 ## Contact
 
 Website: https://hklabstudio.com
-
