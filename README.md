@@ -32,6 +32,14 @@ An endless browser arcade game where players defend a city from incoming threats
 
 Commercial source repository maintained privately.
 
+### Forge Rush
+
+A fast-paced fantasy forging game built around precision timing, weapon progression, scoring, and increasingly demanding forge sequences. Players strike within timing windows to craft weapons while progressing through multiple gameplay phases.
+
+The game includes animated forge artwork, sound effects and music, mouse, keyboard and touch controls, responsive desktop/tablet/phone layouts, persistent progress data, and Web export support. Built with Godot 4.7.2.
+
+Commercial source repository maintained privately.
+
 ### HK Memory Grid
 
 A visual-memory game in which players memorize highlighted board cells and recreate the pattern after the board clears. It includes selectable difficulty modes, scoring, lives, keyboard controls, and Web export. Built with Godot 4.7.2. Version 1.0.0.
