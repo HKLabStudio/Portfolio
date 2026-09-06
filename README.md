@@ -11,6 +11,8 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 
 ## Featured Projects
 
+- **BONK!** — A fast gravity-flipping arcade game with procedural obstacles, optional shard collection, persistent records, and desktop/mobile controls. Built with Godot 4.7. Version 1.9.1. [Play](https://hklabstudio.com/play-games) · [Source Edition](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
+
 - **Intelligence Studio v2.0.0** - A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
 
 - **Meteor Defense** — An endless browser arcade game in which players defend a city from incoming threats, avoid friendly craft, collect power-ups, and pursue high scores. Built with Godot 4.7.2. Version 1.0.0.
@@ -19,6 +21,16 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 - **HK CSV & Excel Import Wizard** — A browser-based workflow for CSV/XLSX mapping, row validation, transforms, duplicate detection, review, and export. Version 1.0.0.
 
 ## Games
+
+### BONK!
+
+![BONK! Complete Godot Source Edition](assets/bonk-complete-godot-source-edition.png)
+
+A fast gravity-flipping arcade game where players switch between the floor and ceiling, avoid procedural obstacles, collect optional shards, and try to beat persistent best-time and shard records. It includes Easy, Medium, and Hard modes; mouse, keyboard, touch, and tablet controls; independent Music and SFX settings; and a responsive 16:9 gameplay presentation. Built with Godot 4.7. Version 1.9.1.
+
+[Play BONK!](https://hklabstudio.com/play-games) · [BONK! Complete Godot Source Edition — $8.99 USD](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
+
+Commercial source repository maintained privately.
 
 ### Axirune
 
