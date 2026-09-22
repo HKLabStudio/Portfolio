@@ -11,6 +11,8 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 
 ## Featured Projects
 
+- **Link Crest Pro** — A Windows 10 x64 desktop application combining outbound-link discovery, redirect and affiliate tracking inspection, and audit comparison and reporting. Built with Electron and Node.js. Version 0.1.0-rc.2. One-time purchase. [Product](https://hklabstudio.com/store/link-crest-pro)
+
 - **BONK!** — A fast gravity-flipping arcade game with procedural obstacles, optional shard collection, persistent records, and desktop/mobile controls. Built with Godot 4.7. Version 1.9.1. [Play](https://hklabstudio.com/play-games) · [Source Edition](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
 
 - **Intelligence Studio v2.0.0** - A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
@@ -59,6 +61,18 @@ A visual-memory game in which players memorize highlighted board cells and recre
 Commercial source repository maintained privately.
 
 ## Developer Tools
+
+### Link Crest Pro
+
+A locally installed affiliate link audit application combining outbound-link discovery, redirect and tracking-parameter inspection, and audit comparison and reporting in one workspace.
+
+Link Crest Pro discovers outbound links on permitted public websites, records observable HTTP responses and redirect paths, inspects configured tracking parameters, compares saved audits, and exports CSV and standalone HTML reports. Projects and audit history are stored locally.
+
+Built with Electron and Node.js. Windows 10 x64 compatible. Version 0.1.0-rc.2.
+
+[View Link Crest Pro](https://hklabstudio.com/store/link-crest-pro)
+
+Commercial source repository maintained privately.
 
 ### Intelligence Studio v2.0.0
 
