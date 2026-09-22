@@ -142,8 +142,6 @@ Commercial source repository maintained privately.
 
 A commercial game UI asset pack for gameplay feedback, status effects, elemental damage, buffs, debuffs, control states, and survival conditions. It contains 100 PNG icons, sprite atlases, coordinate maps, and JSON/CSV manifests. Version 1.0.0.
 
-![Essential Game UI Icons Vol. 2 preview](assets/essential-game-ui-icons-vol-2-preview-all-100.png)
-
 Commercial source repository maintained privately.
 
 ### HK 100 Game Icons
