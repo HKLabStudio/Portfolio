@@ -1,4 +1,4 @@
-# HK Lab Studio — Software Portfolio
+﻿# HK Lab Studio â€” Software Portfolio
 
 Developer / Publisher: HK Lab Studio  
 Website: https://hklabstudio.com
@@ -9,18 +9,33 @@ Website: https://hklabstudio.com
 
 HK Lab Studio develops games, local-first developer tools, interface component systems, and game asset packs. This portfolio provides project-level information only; commercial source repositories are maintained privately.
 
+## Latest Release
+
+### Game Build Inspector
+
+**Game Build Inspector v0.1.2** is a local browser-based preflight utility for HTML5 and WebGL game builds.
+
+It checks packaging, paths, references and platform-specific technical requirements across **Generic Web, itch.io, Newgrounds and CrazyGames**, with deterministic safe repair, repaired-build rescanning and standalone report export.
+
+Validated engine detection includes Godot, Unity WebGL, GDevelop, Construct, GameMaker HTML5 and generic HTML5 / JavaScript builds.
+
+[View project profile](projects/game-build-inspector.md)
+
+Commercial source and customer binaries are maintained privately.
+
 ## Featured Projects
 
-- **Link Crest Pro** — A Windows 10 x64 desktop application combining outbound-link discovery, redirect and affiliate tracking inspection, and audit comparison and reporting. Built with Electron and Node.js. Version 0.1.0-rc.2. One-time purchase. [Product](https://hklabstudio.com/store/link-crest-pro)
+- **Game Build Inspector** — Local HTML5/WebGL game-build preflight utility with Generic Web, itch.io, Newgrounds and CrazyGames profiles, deterministic safe repair, rescan and HTML report export. Version 0.1.2. [Project profile](projects/game-build-inspector.md)
+- **Link Crest Pro** â€” A Windows 10 x64 desktop application combining outbound-link discovery, redirect and affiliate tracking inspection, and audit comparison and reporting. Built with Electron and Node.js. Version 0.1.0-rc.2. One-time purchase. [Product](https://hklabstudio.com/store/link-crest-pro)
 
-- **BONK!** — A fast gravity-flipping arcade game with procedural obstacles, optional shard collection, persistent records, and desktop/mobile controls. Built with Godot 4.7. Version 1.9.1. [Play](https://hklabstudio.com/play-games) · [Source Edition](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
+- **BONK!** â€” A fast gravity-flipping arcade game with procedural obstacles, optional shard collection, persistent records, and desktop/mobile controls. Built with Godot 4.7. Version 1.9.1. [Play](https://hklabstudio.com/play-games) Â· [Source Edition](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
 
 - **Intelligence Studio v2.0.0** - A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
 
-- **Meteor Defense** — An endless browser arcade game in which players defend a city from incoming threats, avoid friendly craft, collect power-ups, and pursue high scores. Built with Godot 4.7.2. Version 1.0.0.
-- **HK ReleaseVerity** — A local-first release-quality tool that consolidates automated release evidence into repeatable quality-gate decisions. Version 1.8.0.
-- **HK Web Release Regression Studio** — A local-first workspace for comparing baseline and candidate web releases across desktop, tablet, and phone viewports.
-- **HK CSV & Excel Import Wizard** — A browser-based workflow for CSV/XLSX mapping, row validation, transforms, duplicate detection, review, and export. Version 1.0.0.
+- **Meteor Defense** â€” An endless browser arcade game in which players defend a city from incoming threats, avoid friendly craft, collect power-ups, and pursue high scores. Built with Godot 4.7.2. Version 1.0.0.
+- **HK ReleaseVerity** â€” A local-first release-quality tool that consolidates automated release evidence into repeatable quality-gate decisions. Version 1.8.0.
+- **HK Web Release Regression Studio** â€” A local-first workspace for comparing baseline and candidate web releases across desktop, tablet, and phone viewports.
+- **HK CSV & Excel Import Wizard** â€” A browser-based workflow for CSV/XLSX mapping, row validation, transforms, duplicate detection, review, and export. Version 1.0.0.
 
 ## Games
 
@@ -30,7 +45,7 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 
 A fast gravity-flipping arcade game where players switch between the floor and ceiling, avoid procedural obstacles, collect optional shards, and try to beat persistent best-time and shard records. It includes Easy, Medium, and Hard modes; mouse, keyboard, touch, and tablet controls; independent Music and SFX settings; and a responsive 16:9 gameplay presentation. Built with Godot 4.7. Version 1.9.1.
 
-[Play BONK!](https://hklabstudio.com/play-games) · [BONK! Complete Godot Source Edition — $8.99 USD](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
+[Play BONK!](https://hklabstudio.com/play-games) Â· [BONK! Complete Godot Source Edition â€” $8.99 USD](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
 
 Commercial source repository maintained privately.
 
@@ -62,6 +77,17 @@ Commercial source repository maintained privately.
 
 ## Developer Tools
 
+### Game Build Inspector
+
+A local browser-based HTML5/WebGL game-build preflight utility for checking packaging, paths, references, platform limits and publishing-profile requirements before release.
+
+It supports Generic Web, itch.io, Newgrounds and CrazyGames profiles, detects common web-game engine exports, applies deterministic safe repairs where supported, rescans repaired builds and exports standalone HTML reports.
+
+Version 0.1.2.
+
+[Project profile](projects/game-build-inspector.md)
+
+Commercial source repository maintained privately.
 ### Link Crest Pro
 
 A locally installed affiliate link audit application combining outbound-link discovery, redirect and tracking-parameter inspection, and audit comparison and reporting in one workspace.
@@ -118,7 +144,7 @@ Commercial source repository maintained privately.
 
 ## UI & Component Systems
 
-### HK Agent UI Vol. 1 — React Edition
+### HK Agent UI Vol. 1 â€” React Edition
 
 A collection of 25 configurable React UI components for tool execution, connection states, approvals, usage, citations, permissions, workflows, and operational feedback. Built with React, TypeScript, Tailwind CSS, and Vite. Version 1.0.0.
 
@@ -130,7 +156,7 @@ A standalone React frontend component kit for chat, tool-calling interfaces, sou
 
 Commercial source repository maintained privately.
 
-### HK Agent UI Vol. 2 — Developer States Edition
+### HK Agent UI Vol. 2 â€” Developer States Edition
 
 A React component pack for common application and developer states, including loading, errors, permissions, progress, deployment, and system health. Built with React, TypeScript, Tailwind CSS, and Vite.
 
@@ -185,3 +211,4 @@ Developer / Publisher: HK Lab Studio
 ## Contact
 
 Website: https://hklabstudio.com
+
