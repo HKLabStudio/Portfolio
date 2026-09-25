@@ -1,4 +1,4 @@
-﻿# Game Build Inspector
+# Game Build Inspector
 
 **Publisher:** HK Lab Studio  
 **Version:** 0.1.2  

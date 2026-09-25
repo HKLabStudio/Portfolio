@@ -1,4 +1,4 @@
-﻿# Game Build Inspector
+# Game Build Inspector
 
 Public portfolio media for **Game Build Inspector v0.1.2**.
 
