@@ -40,8 +40,6 @@ Commercial source is maintained privately.
 
 ### BONK!
 
-![BONK! Complete Godot Source Edition](assets/bonk-complete-godot-source-edition.png)
-
 A fast gravity-flipping arcade game where players switch between the floor and ceiling, avoid procedural obstacles, collect optional shards, and try to beat persistent best-time and shard records. It includes Easy, Medium, and Hard modes; mouse, keyboard, touch, and tablet controls; independent Music and SFX settings; and a responsive 16:9 gameplay presentation. Built with Godot 4.7. Version 1.9.1.
 
 [Play BONK!](https://hklabstudio.com/play-games) · [BONK! Complete Godot Source Edition — $8.99 USD](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
