@@ -11,21 +11,20 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 
 ## Latest Release
 
-### Game Build Inspector
+### Affiliate Link Manager
 
-**Game Build Inspector v0.1.2** is a local browser-based preflight utility for HTML5 and WebGL game builds.
+**Affiliate Link Manager v1.1.0** is a Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and safely applying supported fixes with Pro.
 
-It checks packaging, paths, references and platform-specific technical requirements across **Generic Web, itch.io, Newgrounds and CrazyGames**, with deterministic safe repair, repaired-build rescanning and standalone report export.
+It supports affiliate-rule management, supported-link scanning, correction review, permission-aware Apply, final confirmation, and Undo of the latest verified batch.
 
-Validated engine detection includes Godot, Unity WebGL, GDevelop, Construct, GameMaker HTML5 and generic HTML5 / JavaScript builds.
+[View project profile](projects/affiliate-link-manager.md) · [View on HK Lab Studio](https://www.hklabstudio.com/store/affiliate-link-manager) · [Watch product demo](https://youtu.be/Zrf4Cdodxug)
 
-[View project profile](projects/game-build-inspector.md)
-
-Commercial source and customer binaries are maintained privately.
+Commercial source is maintained privately.
 
 ## Featured Projects
 
 - **Game Build Inspector** — Local HTML5/WebGL game-build preflight utility with Generic Web, itch.io, Newgrounds and CrazyGames profiles, deterministic safe repair, rescan and HTML report export. Version 0.1.2. [Project profile](projects/game-build-inspector.md)
+- **Affiliate Link Manager** — Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and applying supported fixes with Pro. Version 1.1.0. [Project profile](projects/affiliate-link-manager.md) · [Product](https://www.hklabstudio.com/store/affiliate-link-manager) · [Demo](https://youtu.be/Zrf4Cdodxug)
 - **Link Crest Pro** — A Windows 10 x64 desktop application combining outbound-link discovery, redirect and affiliate tracking inspection, and audit comparison and reporting. Built with Electron and Node.js. Version 0.1.0-rc.2. One-time purchase. [Product](https://hklabstudio.com/store/link-crest-pro)
 
 - **BONK!** — A fast gravity-flipping arcade game with procedural obstacles, optional shard collection, persistent records, and desktop/mobile controls. Built with Godot 4.7. Version 1.9.1. [Play](https://hklabstudio.com/play-games) · [Source Edition](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
@@ -76,6 +75,14 @@ A visual-memory game in which players memorize highlighted board cells and recre
 Commercial source repository maintained privately.
 
 ## Developer Tools
+
+### Affiliate Link Manager
+
+A Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and safely applying supported fixes with Pro. Version 1.1.0.
+
+[Project profile](projects/affiliate-link-manager.md) · [View on HK Lab Studio](https://www.hklabstudio.com/store/affiliate-link-manager) · [Watch product demo](https://youtu.be/Zrf4Cdodxug)
+
+Commercial source is maintained privately.
 
 ### Game Build Inspector
 
