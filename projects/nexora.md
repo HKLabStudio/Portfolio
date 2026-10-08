@@ -10,7 +10,13 @@ It is designed for software companies, AI startups, SaaS platforms, automation b
 
 The theme includes:
 
-- Home, About, Features, Pricing, FAQ, Contact and Blog pages
+- Home
+- About
+- Features
+- Pricing
+- FAQ
+- Contact
+- Blog
 - responsive desktop, tablet and mobile layouts
 - animated homepage sections
 - reusable WordPress block patterns
@@ -24,14 +30,15 @@ The theme includes:
 
 - WordPress
 - PHP
-- native WordPress block theme architecture
+- WordPress Block Themes
 - Gutenberg / Full Site Editing
-- theme.json design system
-- reusable block patterns and template parts
+- theme.json
 - HTML5
 - CSS3
 - JavaScript
-- responsive layout development
+- reusable block patterns
+- template parts
+- responsive layouts
 - LocalWP development workflow
 
 ## Validation
@@ -40,18 +47,20 @@ Nexora was validated through packaged-theme installation and customer-flow testi
 
 Validation included:
 
-- theme installation and activation
+- theme installation
+- activation
 - automatic page creation
 - Home and Blog assignment
-- responsive desktop, tablet and mobile checks
-- archive, Blog and single-post layouts
+- responsive desktop, tablet and mobile review
+- archive and single-post layouts
 - mobile navigation
-- theme packaging
-- clean-install verification
+- package validation
+- clean-install testing
 
 ## Release
 
-Version: 1.0.0
+Version:
+1.0.0
 
 Product:
 https://www.hklabstudio.com/store/nexora-ai-saas-wordpress-template
