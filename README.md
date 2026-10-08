@@ -7,7 +7,7 @@ Website: https://hklabstudio.com
 
 ## About
 
-HK Lab Studio develops WordPress themes, Framer templates, developer tools, games, interface component systems and digital assets. This portfolio provides project-level information while commercial source repositories and customer delivery packages are maintained privately.
+HK Lab Studio develops WordPress themes, Framer templates, developer tools, games, interface systems and digital assets. Projects span web development, software tooling, game development, AI-assisted workflows, design and release-quality engineering. Commercial source repositories and customer delivery packages are maintained privately.
 
 ## Latest Release
 
@@ -23,14 +23,14 @@ Commercial source and customer packages are maintained privately.
 
 ## Featured Projects
 
-- **Prestige Auto**  Responsive WordPress block theme for car detailing studios and auto spas with six service presentations, gallery, blog and commercial packaging. Version 1.0.0. [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
+- **Prestige Auto**  Responsive WordPress block theme for car detailing studios and auto spas with service presentations, gallery, blog, responsive layouts and commercial packaging. Version 1.0.0. [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
 - **Nexora**  Native WordPress block theme for AI, SaaS and automation brands with Full Site Editing, reusable patterns, responsive layouts and clean-install packaging. Version 1.0.0. [Project profile](projects/nexora.md)  [Product](https://www.hklabstudio.com/store/nexora-ai-saas-wordpress-template)  [Demo](https://youtu.be/6L111LD5dGc)
-- **PlaySignal**  Responsive Framer website template for indie developers and studios launching or presenting a game, with trailer, gallery, world, character and CTA sections. [Project profile](projects/playsignal.md)  [Product](https://www.hklabstudio.com/store/playsignal)  [Demo](https://youtu.be/iqLJzY6BW5E)
+- **PlaySignal**  Responsive Framer website template for indie developers and studios launching or presenting a game, including trailer, gallery, world, character and CTA sections. [Project profile](projects/playsignal.md)  [Product](https://www.hklabstudio.com/store/playsignal)  [Demo](https://youtu.be/iqLJzY6BW5E)
 - **Game Build Inspector** — Local HTML5/WebGL game-build preflight utility with Generic Web, itch.io, Newgrounds and CrazyGames profiles, deterministic safe repair, rescan and HTML report export. Version 0.1.2. [Project profile](projects/game-build-inspector.md)
-- **Affiliate Link Manager** — Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and applying supported fixes with Pro. Version 1.1.0. [Project profile](projects/affiliate-link-manager.md) · [Product](https://www.hklabstudio.com/store/affiliate-link-manager) · [Demo](https://youtu.be/Zrf4Cdodxug)
+- **Affiliate Link Manager** — Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and applying supported fixes with Pro. Version 1.1.0. [Project profile](projects/affiliate-link-manager.md)  [Product](https://www.hklabstudio.com/store/affiliate-link-manager)  [Demo](https://youtu.be/Zrf4Cdodxug)
 - **Link Crest Pro** — A Windows 10 x64 desktop application combining outbound-link discovery, redirect and affiliate tracking inspection, and audit comparison and reporting. Built with Electron and Node.js. Version 0.1.0-rc.2. One-time purchase. [Product](https://hklabstudio.com/store/link-crest-pro)
 
-- **BONK!** — A fast gravity-flipping arcade game with procedural obstacles, optional shard collection, persistent records, and desktop/mobile controls. Built with Godot 4.7. Version 1.9.1. [Play](https://hklabstudio.com/play-games) · [Source Edition](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
+- **BONK!** — A fast gravity-flipping arcade game with procedural obstacles, optional shard collection, persistent records, and desktop/mobile controls. Built with Godot 4.7. Version 1.9.1. [Play](https://hklabstudio.com/play-games)  [Source Edition](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
 
 - **Intelligence Studio v2.0.0** - A browser-based workspace for building structured Custom GPT projects, preparing configuration and compliance material, and exporting reusable project deliverables. Commercial source maintained privately.
 
@@ -45,7 +45,7 @@ Commercial source and customer packages are maintained privately.
 
 A premium responsive WordPress block theme for car detailing studios, auto spas and professional vehicle-care businesses.
 
-Built with native WordPress block-theme architecture, reusable patterns, responsive layouts, automatic demo setup and customer-ready packaging.
+Built with native WordPress block-theme architecture, reusable patterns, responsive layouts, demo-content setup and customer-ready packaging.
 
 [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
 
@@ -53,9 +53,9 @@ Commercial source and customer packages are maintained privately.
 
 ### Nexora
 
-A modern WordPress block theme for AI, SaaS, automation and technology brands.
+A modern WordPress block theme for AI, SaaS, automation and technology businesses.
 
-Built with native Full Site Editing, reusable block patterns, responsive page templates, animated presentation sections and clean-install setup.
+Built using native Full Site Editing, reusable block patterns, responsive templates, animated presentation sections and clean-install setup.
 
 [Project profile](projects/nexora.md)  [Product](https://www.hklabstudio.com/store/nexora-ai-saas-wordpress-template)  [Demo](https://youtu.be/6L111LD5dGc)
 
@@ -65,9 +65,9 @@ Commercial source and customer packages are maintained privately.
 
 ### PlaySignal
 
-A responsive Framer website template for solo game developers and indie studios preparing a game announcement, showcase or launch.
+A responsive Framer website template for solo game developers and indie studios preparing game announcements, showcases and launches.
 
-It includes a game-focused hero, trailer presentation, gallery, world and character sections, external CTAs and responsive desktop, tablet and mobile layouts.
+It includes a game-focused hero, trailer, gallery, world and character sections, external CTAs and responsive layouts.
 
 [Project profile](projects/playsignal.md)  [Product](https://www.hklabstudio.com/store/playsignal)  [Demo](https://youtu.be/iqLJzY6BW5E)
 
@@ -79,7 +79,7 @@ Commercial project assets are maintained privately.
 
 A fast gravity-flipping arcade game where players switch between the floor and ceiling, avoid procedural obstacles, collect optional shards, and try to beat persistent best-time and shard records. It includes Easy, Medium, and Hard modes; mouse, keyboard, touch, and tablet controls; independent Music and SFX settings; and a responsive 16:9 gameplay presentation. Built with Godot 4.7. Version 1.9.1.
 
-[Play BONK!](https://hklabstudio.com/play-games) · [BONK! Complete Godot Source Edition — $8.99 USD](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
+[Play BONK!](https://hklabstudio.com/play-games)  [BONK! Complete Godot Source Edition — $8.99 USD](https://hklabstudio.com/store/bonk-complete-godot-source-edition)
 
 Commercial source repository maintained privately.
 
@@ -115,7 +115,7 @@ Commercial source repository maintained privately.
 
 A Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and safely applying supported fixes with Pro. Version 1.1.0.
 
-[Project profile](projects/affiliate-link-manager.md) · [View on HK Lab Studio](https://www.hklabstudio.com/store/affiliate-link-manager) · [Watch product demo](https://youtu.be/Zrf4Cdodxug)
+[Project profile](projects/affiliate-link-manager.md)  [View on HK Lab Studio](https://www.hklabstudio.com/store/affiliate-link-manager)  [Watch product demo](https://youtu.be/Zrf4Cdodxug)
 
 Commercial source is maintained privately.
 
@@ -232,7 +232,7 @@ The following validation capabilities are documented in the corresponding privat
 - HK Web Release Regression Studio documents type checking, unit tests, production builds, and browser checks.
 - HK Agent UI Vol. 1 documents dependency installation, TypeScript checking, production builds, component rendering, responsive review, and console/runtime checks.
 - HK AI Chat & Tool Calling UI Kit documents dependency installation, TypeScript checking, production builds, and responsive preview validation.
-- Prestige Auto documents fresh WordPress installation, demo-content seeding, responsive checks, package validation and block/PHP validation.
+- Prestige Auto documents WordPress clean-install testing, demo-content seeding, responsive validation, package validation and PHP/block/theme validation.
 - Nexora documents WordPress clean-install testing, automatic page creation, responsive review and package validation.
 - PlaySignal documents responsive Framer validation, navigation/CTA checks and customer-editable template verification.
 
@@ -270,6 +270,16 @@ The following validation capabilities are documented in the corresponding privat
 - Papa Parse
 - ExcelJS
 
+### AI-Assisted Development & Automation
+
+- OpenAI Codex
+- Claude
+- Claude Skills
+- Model Context Protocol (MCP)
+- prompt design
+- structured AI workflows
+- AI-assisted development workflows
+
 ### Testing & Release QA
 
 - Playwright
@@ -295,17 +305,19 @@ The following validation capabilities are documented in the corresponding privat
 - event tracking
 - consent-aware analytics implementation
 
+### Design & Media Production
+
+- CorelDRAW
+- Inkscape
+- Blender
+- FFmpeg
+
 ### Development & Production Tools
 
 - Git
 - GitHub
 - LocalWP
 - PowerShell
-- FFmpeg
-- Blender
-- Inkscape
-- Model Context Protocol (MCP)
-- OpenAI Codex-assisted development workflows
 
 ## Repository Availability
 
