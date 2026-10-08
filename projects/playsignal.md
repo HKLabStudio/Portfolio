@@ -9,14 +9,14 @@ PlaySignal provides an editable game-focused website system built in Framer.
 The template includes:
 
 - responsive desktop, tablet and mobile layouts
-- game-focused hero and overview
+- game-focused hero presentation
 - trailer presentation
 - screenshot gallery
 - world section
 - character section
 - wishlist and external-store calls to action
 - custom 404 page
-- reusable design elements
+- reusable visual components
 - editable typography, colours, imagery and content
 
 The demonstration content can be replaced with a customer's own game branding, screenshots, trailer, characters, world information and external destination links.
@@ -25,10 +25,9 @@ The demonstration content can be replaced with a customer's own game branding, s
 
 - Framer
 - Framer responsive layouts
-- Framer CMS / content workflows where applicable
-- component-based website design
-- responsive desktop, tablet and mobile implementation
-- interactive CTA behaviour
+- Framer CMS/content workflows where applicable
+- component-based web design
+- responsive UI implementation
 - embedded/lazy-loaded video presentation
 - reusable visual systems
 - performance-conscious media handling
@@ -37,17 +36,19 @@ The demonstration content can be replaced with a customer's own game branding, s
 
 The customer-facing PlaySignal release was reviewed for:
 
-- Framer template structure
-- required sections and assets
-- custom 404 page
-- desktop, tablet and mobile layouts
-- navigation and section links
+- template structure
+- responsive desktop layout
+- responsive tablet layout
+- responsive mobile layout
+- navigation
+- section links
 - primary CTA behaviour
-- content sections
+- trailer presentation
 - customer-editable content
-- Framer customisation
+- custom 404 page
 
-Validation Status: PASS
+Validation Status:
+PASS
 
 ## Release
 
