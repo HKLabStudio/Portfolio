@@ -307,6 +307,8 @@ The following validation capabilities are documented in the corresponding privat
 
 ### Design & Media Production
 
+- Adobe Photoshop
+- Adobe Illustrator
 - CorelDRAW
 - Inkscape
 - Blender
