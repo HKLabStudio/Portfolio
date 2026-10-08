@@ -11,18 +11,19 @@ HK Lab Studio develops games, local-first developer tools, interface component s
 
 ## Latest Release
 
-### Affiliate Link Manager
+### Prestige Auto
 
-**Affiliate Link Manager v1.1.0** is a Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and safely applying supported fixes with Pro.
+**Prestige Auto v1.0.0** is a responsive WordPress block theme for car detailing studios, auto spas and professional vehicle-care businesses.
 
-It supports affiliate-rule management, supported-link scanning, correction review, permission-aware Apply, final confirmation, and Undo of the latest verified batch.
+It includes six service presentations, automotive gallery layouts, responsive pages, demo blog content and a commercially packaged WordPress theme.
 
-[View project profile](projects/affiliate-link-manager.md) · [View on HK Lab Studio](https://www.hklabstudio.com/store/affiliate-link-manager) · [Watch product demo](https://youtu.be/Zrf4Cdodxug)
+[View project profile](projects/prestige-auto.md)  [View on HK Lab Studio](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Watch product demo](https://youtu.be/sRiVWC0xnv8)
 
-Commercial source is maintained privately.
+Commercial source and customer packages are maintained privately.
 
 ## Featured Projects
 
+- **Prestige Auto**  Responsive WordPress block theme for car detailing studios and auto spas with six service presentations, gallery, blog and commercial packaging. Version 1.0.0. [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
 - **Game Build Inspector** — Local HTML5/WebGL game-build preflight utility with Generic Web, itch.io, Newgrounds and CrazyGames profiles, deterministic safe repair, rescan and HTML report export. Version 0.1.2. [Project profile](projects/game-build-inspector.md)
 - **Affiliate Link Manager** — Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and applying supported fixes with Pro. Version 1.1.0. [Project profile](projects/affiliate-link-manager.md) · [Product](https://www.hklabstudio.com/store/affiliate-link-manager) · [Demo](https://youtu.be/Zrf4Cdodxug)
 - **Link Crest Pro** — A Windows 10 x64 desktop application combining outbound-link discovery, redirect and affiliate tracking inspection, and audit comparison and reporting. Built with Electron and Node.js. Version 0.1.0-rc.2. One-time purchase. [Product](https://hklabstudio.com/store/link-crest-pro)
