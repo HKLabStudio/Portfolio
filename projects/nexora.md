@@ -4,7 +4,7 @@
 
 ## Overview
 
-Nexora provides a responsive, commercial-ready WordPress website structure built with native Full Site Editing.
+Nexora provides a responsive, commercial-ready WordPress website structure built using native WordPress Full Site Editing.
 
 It is designed for software companies, AI startups, SaaS platforms, automation businesses and digital agencies.
 
@@ -18,9 +18,9 @@ The theme includes:
 - Contact
 - Blog
 - responsive desktop, tablet and mobile layouts
-- animated homepage sections
+- animated presentation sections
 - reusable WordPress block patterns
-- archive and single-post layouts
+- archive and single-post templates
 - branded 404 page
 - automatic core-page creation
 - Home and Blog assignment
@@ -51,10 +51,12 @@ Validation included:
 - activation
 - automatic page creation
 - Home and Blog assignment
-- responsive desktop, tablet and mobile review
+- desktop validation
+- tablet validation
+- mobile validation
 - archive and single-post layouts
 - mobile navigation
-- package validation
+- theme packaging
 - clean-install testing
 
 ## Release

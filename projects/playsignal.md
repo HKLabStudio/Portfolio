@@ -17,16 +17,17 @@ The template includes:
 - wishlist and external-store calls to action
 - custom 404 page
 - reusable visual components
-- editable typography, colours, imagery and content
-
-The demonstration content can be replaced with a customer's own game branding, screenshots, trailer, characters, world information and external destination links.
+- editable typography
+- editable colours
+- editable imagery
+- editable content
 
 ## Technical Approach
 
 - Framer
 - Framer responsive layouts
 - Framer CMS/content workflows where applicable
-- component-based web design
+- component-based website design
 - responsive UI implementation
 - embedded/lazy-loaded video presentation
 - reusable visual systems
@@ -37,13 +38,13 @@ The demonstration content can be replaced with a customer's own game branding, s
 The customer-facing PlaySignal release was reviewed for:
 
 - template structure
-- responsive desktop layout
-- responsive tablet layout
-- responsive mobile layout
+- desktop layout
+- tablet layout
+- mobile layout
 - navigation
 - section links
-- primary CTA behaviour
-- trailer presentation
+- CTA behaviour
+- video presentation
 - customer-editable content
 - custom 404 page
 
