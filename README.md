@@ -7,7 +7,7 @@ Website: https://hklabstudio.com
 
 ## About
 
-HK Lab Studio develops games, local-first developer tools, interface component systems, and game asset packs. This portfolio provides project-level information only; commercial source repositories are maintained privately.
+HK Lab Studio develops WordPress themes, Framer templates, developer tools, games, interface component systems and digital assets. This portfolio provides project-level information while commercial source repositories and customer delivery packages are maintained privately.
 
 ## Latest Release
 
@@ -24,6 +24,8 @@ Commercial source and customer packages are maintained privately.
 ## Featured Projects
 
 - **Prestige Auto**  Responsive WordPress block theme for car detailing studios and auto spas with six service presentations, gallery, blog and commercial packaging. Version 1.0.0. [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
+- **Nexora**  Native WordPress block theme for AI, SaaS and automation brands with Full Site Editing, reusable patterns, responsive layouts and clean-install packaging. Version 1.0.0. [Project profile](projects/nexora.md)  [Product](https://www.hklabstudio.com/store/nexora-ai-saas-wordpress-template)  [Demo](https://youtu.be/6L111LD5dGc)
+- **PlaySignal**  Responsive Framer website template for indie developers and studios launching or presenting a game, with trailer, gallery, world, character and CTA sections. [Project profile](projects/playsignal.md)  [Product](https://www.hklabstudio.com/store/playsignal)  [Demo](https://youtu.be/iqLJzY6BW5E)
 - **Game Build Inspector** — Local HTML5/WebGL game-build preflight utility with Generic Web, itch.io, Newgrounds and CrazyGames profiles, deterministic safe repair, rescan and HTML report export. Version 0.1.2. [Project profile](projects/game-build-inspector.md)
 - **Affiliate Link Manager** — Framer plugin for auditing supported affiliate and referral links, reviewing proposed corrections, and applying supported fixes with Pro. Version 1.1.0. [Project profile](projects/affiliate-link-manager.md) · [Product](https://www.hklabstudio.com/store/affiliate-link-manager) · [Demo](https://youtu.be/Zrf4Cdodxug)
 - **Link Crest Pro** — A Windows 10 x64 desktop application combining outbound-link discovery, redirect and affiliate tracking inspection, and audit comparison and reporting. Built with Electron and Node.js. Version 0.1.0-rc.2. One-time purchase. [Product](https://hklabstudio.com/store/link-crest-pro)
@@ -36,6 +38,40 @@ Commercial source and customer packages are maintained privately.
 - **HK ReleaseVerity** — A local-first release-quality tool that consolidates automated release evidence into repeatable quality-gate decisions. Version 1.8.0.
 - **HK Web Release Regression Studio** — A local-first workspace for comparing baseline and candidate web releases across desktop, tablet, and phone viewports.
 - **HK CSV & Excel Import Wizard** — A browser-based workflow for CSV/XLSX mapping, row validation, transforms, duplicate detection, review, and export. Version 1.0.0.
+
+## WordPress Themes
+
+### Prestige Auto
+
+A premium responsive WordPress block theme for car detailing studios, auto spas and professional vehicle-care businesses.
+
+Built with native WordPress block-theme architecture, reusable patterns, responsive layouts, automatic demo setup and customer-ready packaging.
+
+[Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
+
+Commercial source and customer packages are maintained privately.
+
+### Nexora
+
+A modern WordPress block theme for AI, SaaS, automation and technology brands.
+
+Built with native Full Site Editing, reusable block patterns, responsive page templates, animated presentation sections and clean-install setup.
+
+[Project profile](projects/nexora.md)  [Product](https://www.hklabstudio.com/store/nexora-ai-saas-wordpress-template)  [Demo](https://youtu.be/6L111LD5dGc)
+
+Commercial source and customer packages are maintained privately.
+
+## Framer Templates
+
+### PlaySignal
+
+A responsive Framer website template for solo game developers and indie studios preparing a game announcement, showcase or launch.
+
+It includes a game-focused hero, trailer presentation, gallery, world and character sections, external CTAs and responsive desktop, tablet and mobile layouts.
+
+[Project profile](projects/playsignal.md)  [Product](https://www.hklabstudio.com/store/playsignal)  [Demo](https://youtu.be/iqLJzY6BW5E)
+
+Commercial project assets are maintained privately.
 
 ## Games
 
@@ -196,16 +232,80 @@ The following validation capabilities are documented in the corresponding privat
 - HK Web Release Regression Studio documents type checking, unit tests, production builds, and browser checks.
 - HK Agent UI Vol. 1 documents dependency installation, TypeScript checking, production builds, component rendering, responsive review, and console/runtime checks.
 - HK AI Chat & Tool Calling UI Kit documents dependency installation, TypeScript checking, production builds, and responsive preview validation.
+- Prestige Auto documents fresh WordPress installation, demo-content seeding, responsive checks, package validation and block/PHP validation.
+- Nexora documents WordPress clean-install testing, automatic page creation, responsive review and package validation.
+- PlaySignal documents responsive Framer validation, navigation/CTA checks and customer-editable template verification.
 
 ## Technology Stack
 
-- Godot and GDScript
-- Godot Web export
-- React, TypeScript, Tailwind CSS, and Vite
-- Node.js and Python
-- Vitest and Playwright
+### Web & CMS
+
+- WordPress
+- WordPress Block Themes
+- Gutenberg / Full Site Editing
+- PHP
+- theme.json
+- HTML5
+- CSS3
+- JavaScript
+- Framer
+- Framer CMS
+
+### Frontend & Application Development
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Electron
+
+### Backend, Data & Integration
+
+- Node.js
+- Python
+- REST API workflows
+- JSON
 - JSON Schema
-- Papa Parse and ExcelJS
+- CSV / XLSX data workflows
+- Papa Parse
+- ExcelJS
+
+### Testing & Release QA
+
+- Playwright
+- Vitest
+- Puppeteer
+- responsive browser testing
+- clean-install testing
+- package validation
+- release regression testing
+- release evidence and QA workflows
+
+### Game Development
+
+- Godot
+- GDScript
+- Godot Web export
+- HTML5/Web game deployment
+
+### Commerce & Analytics
+
+- FastSpring
+- Google Analytics 4
+- event tracking
+- consent-aware analytics implementation
+
+### Development & Production Tools
+
+- Git
+- GitHub
+- LocalWP
+- PowerShell
+- FFmpeg
+- Blender
+- Inkscape
+- Model Context Protocol (MCP)
+- OpenAI Codex-assisted development workflows
 
 ## Repository Availability
 
