@@ -11,6 +11,14 @@ HK Lab Studio develops WordPress themes, Framer templates, developer tools, game
 
 ## Latest Release
 
+### AI Revolution
+
+**AI Revolution v1.0.0** is a responsive WordPress and WooCommerce block theme for software stores, AI products, developer tools and digital downloads. It uses native WordPress block-theme architecture, Full Site Editing, reusable patterns and WooCommerce storefront integration.
+
+[View project profile](projects/ai-revolution.md)  [View on HK Lab Studio](https://www.hklabstudio.com/store/ai-revolution-wordpress-woocommerce-theme)  [Watch the 40-second demo](https://youtu.be/i-Eu6YrTFZI)
+
+The theme software is GPL-licensed. The full customer distribution is sold through HK Lab Studio and delivered through FastSpring. This repository is a public technical showcase, not a replacement for the commercial customer package.
+
 ### Prestige Auto
 
 **Prestige Auto v1.0.0** is a responsive WordPress block theme for car detailing studios, auto spas and professional vehicle-care businesses.
@@ -23,6 +31,7 @@ Commercial source and customer packages are maintained privately.
 
 ## Featured Projects
 
+- **AI Revolution** — Responsive WordPress and WooCommerce block theme for software stores, AI products, developer tools and digital downloads. Version 1.0.0. [Project profile](projects/ai-revolution.md)  [Product](https://www.hklabstudio.com/store/ai-revolution-wordpress-woocommerce-theme)  [Demo](https://youtu.be/i-Eu6YrTFZI)
 - **Prestige Auto**  Responsive WordPress block theme for car detailing studios and auto spas with service presentations, gallery, blog, responsive layouts and commercial packaging. Version 1.0.0. [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
 - **Nexora**  Native WordPress block theme for AI, SaaS and automation brands with Full Site Editing, reusable patterns, responsive layouts and clean-install packaging. Version 1.0.0. [Project profile](projects/nexora.md)  [Product](https://www.hklabstudio.com/store/nexora-ai-saas-wordpress-template)  [Demo](https://youtu.be/6L111LD5dGc)
 - **PlaySignal**  Responsive Framer website template for indie developers and studios launching or presenting a game, including trailer, gallery, world, character and CTA sections. [Project profile](projects/playsignal.md)  [Product](https://www.hklabstudio.com/store/playsignal)  [Demo](https://youtu.be/iqLJzY6BW5E)
@@ -40,6 +49,16 @@ Commercial source and customer packages are maintained privately.
 - **HK CSV & Excel Import Wizard** — A browser-based workflow for CSV/XLSX mapping, row validation, transforms, duplicate detection, review, and export. Version 1.0.0.
 
 ## WordPress Themes
+
+### AI Revolution
+
+A responsive WordPress and WooCommerce block theme for software stores, AI products, developer tools and digital downloads.
+
+Built with native block-theme architecture, Full Site Editing, reusable patterns and WooCommerce storefront integration.
+
+[Project profile](projects/ai-revolution.md)  [Product](https://www.hklabstudio.com/store/ai-revolution-wordpress-woocommerce-theme)  [Demo](https://youtu.be/i-Eu6YrTFZI)
+
+The theme software is GPL-licensed. The commercial customer distribution is delivered through HK Lab Studio and FastSpring.
 
 ### Prestige Auto
 
