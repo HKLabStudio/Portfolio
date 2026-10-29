@@ -11,6 +11,12 @@ HK Lab Studio develops WordPress themes, Framer templates, developer tools, game
 
 ## Latest Release
 
+### Framing Motion Template
+
+A cinematic Framer portfolio for filmmakers, video editors, motion designers and creative studios, with bold typography, cinematic imagery, CMS-powered project pages, motion presentation and responsive layouts.
+
+[View project profile](projects/framing-motion.md)  [View on HK Lab Studio](https://www.hklabstudio.com/store/framing-motion-template)  [Live preview](https://mobile-guidance-086459.framer.app/)  [Watch product demo](https://youtu.be/-0JzjbKQXrg)
+
 ### AI Revolution
 
 **AI Revolution v1.0.0** is a responsive WordPress and WooCommerce block theme for software stores, AI products, developer tools and digital downloads. It uses native WordPress block-theme architecture, Full Site Editing, reusable patterns and WooCommerce storefront integration.
@@ -31,6 +37,7 @@ Commercial source and customer packages are maintained privately.
 
 ## Featured Projects
 
+- **Framing Motion Template** — Cinematic Framer portfolio with a CMS-powered work collection, project pages and responsive layouts. [Project profile](projects/framing-motion.md)  [Product](https://www.hklabstudio.com/store/framing-motion-template)  [Demo](https://youtu.be/-0JzjbKQXrg)
 - **AI Revolution** — Responsive WordPress and WooCommerce block theme for software stores, AI products, developer tools and digital downloads. Version 1.0.0. [Project profile](projects/ai-revolution.md)  [Product](https://www.hklabstudio.com/store/ai-revolution-wordpress-woocommerce-theme)  [Demo](https://youtu.be/i-Eu6YrTFZI)
 - **Prestige Auto**  Responsive WordPress block theme for car detailing studios and auto spas with service presentations, gallery, blog, responsive layouts and commercial packaging. Version 1.0.0. [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
 - **Nexora**  Native WordPress block theme for AI, SaaS and automation brands with Full Site Editing, reusable patterns, responsive layouts and clean-install packaging. Version 1.0.0. [Project profile](projects/nexora.md)  [Product](https://www.hklabstudio.com/store/nexora-ai-saas-wordpress-template)  [Demo](https://youtu.be/6L111LD5dGc)
@@ -81,6 +88,14 @@ Built using native Full Site Editing, reusable block patterns, responsive templa
 Commercial source and customer packages are maintained privately.
 
 ## Framer Templates
+
+### Framing Motion Template
+
+An editable cinematic portfolio for filmmakers, video editors, motion designers and creative studios. It includes a homepage, CMS-powered work portfolio with six demonstration projects and individual project pages, Services and About pages, motion and video presentation, and desktop, tablet and mobile layouts. The contact enquiry form requires the buyer to configure a destination.
+
+Customer access is supplied through a Framer remix link. Commercial project assets and access are maintained privately.
+
+[Project profile](projects/framing-motion.md)  [Product](https://www.hklabstudio.com/store/framing-motion-template)  [Live preview](https://mobile-guidance-086459.framer.app/)  [Demo](https://youtu.be/-0JzjbKQXrg)
 
 ### PlaySignal
 
@@ -254,6 +269,7 @@ The following validation capabilities are documented in the corresponding privat
 - Prestige Auto documents WordPress clean-install testing, demo-content seeding, responsive validation, package validation and PHP/block/theme validation.
 - Nexora documents WordPress clean-install testing, automatic page creation, responsive review and package validation.
 - PlaySignal documents responsive Framer validation, navigation/CTA checks and customer-editable template verification.
+- Framing Motion documents a native CMS editing and binding check, owner review of desktop, tablet and phone presentation, and local customer access ZIP extraction and integrity checks. These historical checks do not establish live checkout or delivery behavior.
 
 ## Technology Stack
 
