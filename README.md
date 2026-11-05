@@ -333,7 +333,6 @@ The following validation capabilities are documented in the corresponding privat
 - clean-install testing
 - package validation
 - Godot headless tests
-- independent-project trials
 - release regression testing
 - release evidence and QA workflows
 
