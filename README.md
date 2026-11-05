@@ -332,6 +332,8 @@ The following validation capabilities are documented in the corresponding privat
 - responsive browser testing
 - clean-install testing
 - package validation
+- Godot headless tests
+- independent-project trials
 - release regression testing
 - release evidence and QA workflows
 
@@ -339,6 +341,8 @@ The following validation capabilities are documented in the corresponding privat
 
 - Godot
 - GDScript
+- Godot editor plugin development
+- text-scene (.tscn) / signal workflows
 - Godot Web export
 - HTML5/Web game deployment
 
