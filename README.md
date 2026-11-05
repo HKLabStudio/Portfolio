@@ -37,6 +37,7 @@ Commercial source and customer packages are maintained privately.
 
 ## Featured Projects
 
+- **Godot Refactor Guard** — Limited beta Godot editor addon for finding missing `.tscn` signal connections after a refactor, previewing a repair and backing up the scene before an approved write. Verified with Godot 4.7.2. [Project profile](projects/godot-refactor-guard.md)  [Product](https://hklabstudio.onfastspring.com/godot-refactor-guard)
 - **Framing Motion Template** — Cinematic Framer portfolio with a CMS-powered work collection, project pages and responsive layouts. [Project profile](projects/framing-motion.md)  [Product](https://www.hklabstudio.com/store/framing-motion-template)  [Demo](https://youtu.be/-0JzjbKQXrg)
 - **AI Revolution** — Responsive WordPress and WooCommerce block theme for software stores, AI products, developer tools and digital downloads. Version 1.0.0. [Project profile](projects/ai-revolution.md)  [Product](https://www.hklabstudio.com/store/ai-revolution-wordpress-woocommerce-theme)  [Demo](https://youtu.be/i-Eu6YrTFZI)
 - **Prestige Auto**  Responsive WordPress block theme for car detailing studios and auto spas with service presentations, gallery, blog, responsive layouts and commercial packaging. Version 1.0.0. [Project profile](projects/prestige-auto.md)  [Product](https://www.hklabstudio.com/store/prestige-auto-wordpress-theme)  [Demo](https://youtu.be/sRiVWC0xnv8)
@@ -144,6 +145,14 @@ A visual-memory game in which players memorize highlighted board cells and recre
 Commercial source repository maintained privately.
 
 ## Developer Tools
+
+### Godot Refactor Guard
+
+A limited beta Godot editor addon that compares serialized `.tscn` signal connections with a baseline saved before refactoring. Review and preview a missing connection, then apply a backed-up repair and test the scene. Verified with Godot 4.7.2 stable. Version 0.1.1.
+
+[Project profile](projects/godot-refactor-guard.md)  [Buy on FastSpring](https://hklabstudio.onfastspring.com/godot-refactor-guard)  [Product licence](https://www.hklabstudio.com/product-licence)
+
+Commercial source and customer files are maintained privately.
 
 ### Affiliate Link Manager
 
